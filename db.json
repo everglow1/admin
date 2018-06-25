@@ -1,0 +1,143 @@
+{
+  "students": [
+    {
+      "name": "小华",
+      "num": "1213",
+      "sex": "男",
+      "phone": "1111222333",
+      "id": 2,
+      "password": "123",
+      "study": "未完成",
+      "gpa": "13",
+      "wisdom": "10",
+      "credit": "45",
+      "test": "无",
+      "course": [
+        {
+          "name": "java",
+          "type": "选修",
+          "nature": "科学",
+          "loseCourse": "19"
+        },
+        {
+          "name": "高数",
+          "type": "必修",
+          "nature": "科学",
+          "loseCourse": "19"
+        },
+        {
+          "name": "c++",
+          "type": "必修",
+          "nature": "科学",
+          "loseCourse": "19"
+        }
+      ]
+    },
+    {
+      "name": "李东",
+      "num": "1214",
+      "sex": "男",
+      "phone": "1111222333",
+      "id": 4,
+      "password": "123",
+      "study": "未完成",
+      "gpa": "13",
+      "wisdom": "10",
+      "credit": "45",
+      "test": "无",
+      "course": [
+        {
+          "name": "java",
+          "type": "选修",
+          "nature": "科学",
+          "loseCourse": "19"
+        },
+        {
+          "name": "高数",
+          "type": "必修",
+          "nature": "科学",
+          "loseCourse": "19"
+        },
+        {
+          "name": "c++",
+          "type": "必修",
+          "nature": "科学",
+          "loseCourse": "19"
+        }
+      ]
+    },
+    {
+      "name": "李淳",
+      "phone": "1223456789",
+      "sex": "男",
+      "num": "1237",
+      "id": 6
+    },
+    {
+      "name": "游",
+      "phone": "136745238",
+      "sex": "男",
+      "password": "123",
+      "num": "1796",
+      "id": 8
+    },
+    {
+      "name": "徐二",
+      "phone": "21345",
+      "sex": "女",
+      "password": "123",
+      "num": "3546",
+      "id": 9
+    },
+    {
+      "name": "三三",
+      "phone": "12346859",
+      "sex": "男",
+      "password": "123",
+      "num": "1212",
+      "id": 10
+    },
+    {
+      "name": "例丽丽",
+      "phone": "137375726",
+      "sex": "女",
+      "num": "1456",
+      "password": "123",
+      "id": 11
+    },
+    {
+      "name": "司思思",
+      "phone": "532745871",
+      "sex": "女",
+      "password": "123",
+      "num": "1234",
+      "id": 12,
+      "course": [
+        {
+          "name": "java",
+          "type": "选修",
+          "nature": "科学",
+          "loseCourse": "19"
+        },
+        {
+          "name": "高数",
+          "type": "必修",
+          "nature": "科学",
+          "loseCourse": "19"
+        },
+        {
+          "name": "c++",
+          "type": "必修",
+          "nature": "科学",
+          "loseCourse": "19"
+        }
+      ]
+    }
+  ],
+  "admin": [
+    {
+      "name": "admin",
+      "password": "123456"
+    }
+  ]
+}
